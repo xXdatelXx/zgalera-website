@@ -5,6 +5,12 @@ import type { Employee } from './types'
  */
 const employeesList: Employee[] = [
 	{
+		name: 'Пан Артемій',
+		customAvatar: true,
+		github: 'xXdatelXx',
+		about: 'Не може в раст ->',
+	},
+	{
 		name: 'Dmytro',
 		customAvatar: true,
 		github: 'danraponga',
